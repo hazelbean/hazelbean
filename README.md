@@ -41,3 +41,7 @@
 * 보안 취약점 점검 및 패치<br>
 * 웹 접근성/호환성 검토<br>
 * 금융/공공기관 시스템 유지보수 및 정기 점검<br>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazelbean&show_icons=true&theme=tokyonight)
+-->
+

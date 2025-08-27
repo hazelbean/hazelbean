@@ -18,25 +18,25 @@
 🔳 GitHub : [**https://github.com/hazelbean**](https://github.com/hazelbean)
 
 ## *✨ Tech Stack.*
-🔳 Backend<br>
-* Java, Spring Framework (eGovFramework), Spring Boot, JPA/Hibernate, MyBatis<br><br>
+🔳 Backend
+* Java, Spring Framework (eGovFramework), Spring Boot, JPA/Hibernate, MyBatis<br>
 
-🔳 Database<br>
-* MySQL, Oracle, H2<br><br>
+🔳 Database
+* MySQL, Oracle, H2<br>
 
-🔳 Frontend<br>
-* HTML5, CSS3, JavaScript, jQuery, Thymeleaf, Vue.js, Bootstrap4<br><br>
+🔳 Frontend
+* HTML5, CSS3, JavaScript, jQuery, Thymeleaf, Vue.js, Bootstrap4<br>
 
-🔳 DevOps & Tools<br>
+🔳 DevOps & Tools
 * Jenkins (CI/CD), SVN, Git<br>
 * Eclipse, IntelliJ<br>
-* Figma (UI/UX), Firebase (Hosting)<br><br>
+* Figma (UI/UX), Firebase (Hosting)<br>
 
-🔳 System & Server<br>
+🔳 System & Server
 * JBoss, JEUS, Tomcat, Jetty<br>
-* Windows, macOS, Linux<br><br>
+* Windows, macOS, Linux<br>
 
-■ Security & Maintenance<br>
+■ Security & Maintenance
 * 공동인증서, 간편인증(Naver, Kakao, Toss 등) 통합<br>
 * 보안 취약점 점검 및 패치<br>
 * 웹 접근성/호환성 검토<br>

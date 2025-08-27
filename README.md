@@ -16,3 +16,28 @@
 🔳 Website : **[https://dokyoung-dev.web.app](https://dokyoung-dev.web.app/)**
 
 🔳 GitHub : [**https://github.com/hazelbean**](https://github.com/hazelbean)
+
+## *✨ Tech Stack.*
+🔳 Backend<br>
+* Java, Spring Framework (eGovFramework), Spring Boot, JPA/Hibernate, MyBatis<br><br>
+
+🔳 Database<br>
+* MySQL, Oracle, H2<br><br>
+
+🔳 Frontend<br>
+* HTML5, CSS3, JavaScript, jQuery, Thymeleaf, Vue.js, Bootstrap4<br><br>
+
+🔳 DevOps & Tools<br>
+* Jenkins (CI/CD), SVN, Git<br>
+* Eclipse, IntelliJ<br>
+* Figma (UI/UX), Firebase (Hosting)<br><br>
+
+🔳 System & Server<br>
+* JBoss, JEUS, Tomcat, Jetty<br>
+* Windows, macOS, Linux<br><br>
+
+■ Security & Maintenance<br>
+* 공동인증서, 간편인증(Naver, Kakao, Toss 등) 통합<br>
+* 보안 취약점 점검 및 패치<br>
+* 웹 접근성/호환성 검토<br>
+* 금융/공공기관 시스템 유지보수 및 정기 점검<br>

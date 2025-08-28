@@ -36,7 +36,7 @@
 * JBoss, JEUS, Tomcat, Jetty<br>
 * Windows, macOS, Linux<br>
 
-■ Security & Maintenance
+🔳 Security & Maintenance
 * 공동인증서, 간편인증(Naver, Kakao, Toss 등) 통합<br>
 * 보안 취약점 점검 및 패치<br>
 * 웹 접근성/호환성 검토<br>
